@@ -1,11 +1,11 @@
-import React from 'react'
+import Demo from "./components/Demo";
 
 function page() {
   return (
     <div>
-      HI
+      <Demo />
     </div>
-  )
+  );
 }
 
-export default page
+export default page;
